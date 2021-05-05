@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/hitable.h
+ray.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/ray.h
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/hitable_list.h
+hitable.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/hitable.h
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/main.cpp
+iostream
+-
+fstream
+-
+sphere.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/sphere.h
+hitable_list.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/hitable_list.h
+float.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/float.h
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/ray.h
+vec3.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/vec3.h
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/sphere.h
+hitable.h
+/home/sebastian/CLionProjects/RayTracingInAWeekend/hitable.h
+
+/home/sebastian/CLionProjects/RayTracingInAWeekend/vec3.h
+math.h
+-
+stdlib.h
+-
+iostream
+-
+

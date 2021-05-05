@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RayTracingInAWeekend.dir/main.cpp.o -o RayTracingInAWeekend 
